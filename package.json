@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "testc": "jest --coverage",
     "test": "jest"
   },
   "repository": {
